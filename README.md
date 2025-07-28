@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ganeshm04
 - 👀 I’m interested in Backend Development and AI 
-- 🌱 I’m currently learning Backend Development (MERN Stack)
-- 💞️ I’m looking to collaborate on Projects related to MERN stack 
+- 🌱 I’m currently Generative AI and AI agents
+- 💞️ I’m looking to collaborate on Projects related to MERN stack and AI integration
 - 📫 Reach me through LinkedIN
 - 😄 Pronouns: he/him
 - ⚡ Fact: Still learning and Building Projects 
